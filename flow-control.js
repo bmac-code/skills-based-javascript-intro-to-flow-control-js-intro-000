@@ -38,4 +38,3 @@ switch (expression) {
   default: "You have an age"
 
 }
-
