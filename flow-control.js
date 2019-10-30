@@ -37,6 +37,6 @@ switch (expression) {
     return "You area teenager"
     break;
   default: "You have an age"
-    
+
 }
 }
